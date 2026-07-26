@@ -1,3 +1,13 @@
 # Defect Lifecycle
 
-New → Assigned → In Progress → Fixed → Ready for QA → Verified → Closed
+New → Assigned → In Progress → Fixed → Retest → Closed
+
+## Status Definitions
+- New
+- Assigned
+- In Progress
+- Fixed
+- Retest
+- Closed
+- Reopened
+- Deferred

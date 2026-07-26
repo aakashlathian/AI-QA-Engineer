@@ -1,4 +1,5 @@
 # Risk Assessment
 
-|Risk|Impact|Likelihood|Mitigation|
-|---|---|---|---|
+| Risk | Probability | Impact | Mitigation | Owner |
+|---|---|---|---|---|
+| | Low/Med/High | Low/Med/High | | |

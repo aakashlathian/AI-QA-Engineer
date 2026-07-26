@@ -1,6 +1,12 @@
 # Release Checklist
 
-- Regression complete
-- Smoke passed
-- No critical defects
-- Sign-offs obtained
+## Before Release
+- [ ] Test execution complete
+- [ ] Regression passed
+- [ ] Open defects reviewed
+- [ ] Release notes prepared
+
+## After Release
+- [ ] Smoke testing complete
+- [ ] Production validation complete
+- [ ] Stakeholder confirmation received
