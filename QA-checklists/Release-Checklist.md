@@ -1,1 +1,2 @@
 # Release Checklist
+- [ ] Release notes
