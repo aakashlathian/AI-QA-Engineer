@@ -1,7 +1,7 @@
-# Cover Letter
+# ATS Tips
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **ATS Tips**.
 
 ## Key Topics
 - Overview

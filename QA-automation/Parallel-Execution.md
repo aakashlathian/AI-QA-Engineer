@@ -1,7 +1,7 @@
-# Cover Letter
+# Parallel Execution
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **Parallel Execution**.
 
 ## Key Topics
 - Overview

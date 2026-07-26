@@ -1,7 +1,7 @@
-# Cover Letter
+# RAG
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **RAG**.
 
 ## Key Topics
 - Overview

@@ -1,7 +1,7 @@
-# Cover Letter
+# Learning Path
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **Learning Path**.
 
 ## Key Topics
 - Overview

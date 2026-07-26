@@ -1,7 +1,7 @@
-# Cover Letter
+# MCP
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **MCP**.
 
 ## Key Topics
 - Overview

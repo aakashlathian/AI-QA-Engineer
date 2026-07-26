@@ -1,7 +1,7 @@
-# Cover Letter
+# Chrome Extension Workflow
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **Chrome Extension Workflow**.
 
 ## Key Topics
 - Overview

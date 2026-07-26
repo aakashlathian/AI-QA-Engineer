@@ -1,7 +1,7 @@
-# Cover Letter
+# Salary Negotiation
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **Salary Negotiation**.
 
 ## Key Topics
 - Overview

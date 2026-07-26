@@ -1,7 +1,7 @@
-# Cover Letter
+# AI Test Case Generation
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **AI Test Case Generation**.
 
 ## Key Topics
 - Overview

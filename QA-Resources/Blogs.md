@@ -1,7 +1,7 @@
-# Cover Letter
+# Blogs
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **Blogs**.
 
 ## Key Topics
 - Overview

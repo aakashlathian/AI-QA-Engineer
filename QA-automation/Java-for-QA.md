@@ -1,7 +1,7 @@
-# Cover Letter
+# Java for QA
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **Java for QA**.
 
 ## Key Topics
 - Overview

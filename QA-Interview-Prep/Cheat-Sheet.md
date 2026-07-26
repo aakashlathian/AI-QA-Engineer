@@ -1,7 +1,7 @@
-# Cover Letter
+# Cheat Sheet
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **Cheat Sheet**.
 
 ## Key Topics
 - Overview

@@ -1,7 +1,7 @@
-# Cover Letter
+# HR Questions
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **HR Questions**.
 
 ## Key Topics
 - Overview

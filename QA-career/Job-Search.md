@@ -1,7 +1,7 @@
-# Cover Letter
+# Job Search
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **Job Search**.
 
 ## Key Topics
 - Overview

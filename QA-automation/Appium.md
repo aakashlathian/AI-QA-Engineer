@@ -1,7 +1,7 @@
-# Cover Letter
+# Appium
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **Appium**.
 
 ## Key Topics
 - Overview

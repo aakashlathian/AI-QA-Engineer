@@ -1,7 +1,7 @@
-# Cover Letter
+# Resume Tips
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **Resume Tips**.
 
 ## Key Topics
 - Overview

@@ -1,7 +1,7 @@
-# Cover Letter
+# YouTube
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **YouTube**.
 
 ## Key Topics
 - Overview

@@ -1,7 +1,7 @@
-# Cover Letter
+# AI Automation
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **AI Automation**.
 
 ## Key Topics
 - Overview

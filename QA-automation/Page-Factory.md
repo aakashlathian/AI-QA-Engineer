@@ -1,7 +1,7 @@
-# Cover Letter
+# Page Factory
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **Page Factory**.
 
 ## Key Topics
 - Overview

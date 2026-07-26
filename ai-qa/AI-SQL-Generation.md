@@ -1,7 +1,7 @@
-# Cover Letter
+# AI SQL Generation
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **AI SQL Generation**.
 
 ## Key Topics
 - Overview

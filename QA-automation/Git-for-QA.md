@@ -1,7 +1,7 @@
-# Cover Letter
+# Git for QA
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **Git for QA**.
 
 ## Key Topics
 - Overview

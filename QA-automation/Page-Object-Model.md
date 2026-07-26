@@ -1,7 +1,7 @@
-# Cover Letter
+# Page Object Model
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **Page Object Model**.
 
 ## Key Topics
 - Overview

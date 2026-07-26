@@ -1,7 +1,7 @@
-# Cover Letter
+# Sample Framework
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **Sample Framework**.
 
 ## Key Topics
 - Overview

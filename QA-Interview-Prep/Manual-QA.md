@@ -1,7 +1,7 @@
-# Cover Letter
+# Manual QA
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **Manual QA**.
 
 ## Key Topics
 - Overview

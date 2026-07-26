@@ -1,7 +1,7 @@
-# Cover Letter
+# Glossary
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **Glossary**.
 
 ## Key Topics
 - Overview

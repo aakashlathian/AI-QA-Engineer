@@ -1,7 +1,7 @@
-# Cover Letter
+# JUnit
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **JUnit**.
 
 ## Key Topics
 - Overview

@@ -1,7 +1,7 @@
-# Cover Letter
+# API
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **API**.
 
 ## Key Topics
 - Overview

@@ -1,7 +1,7 @@
-# Cover Letter
+# Best Practices
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **Best Practices**.
 
 ## Key Topics
 - Overview

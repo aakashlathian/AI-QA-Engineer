@@ -1,7 +1,7 @@
-# Cover Letter
+# Maven
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **Maven**.
 
 ## Key Topics
 - Overview

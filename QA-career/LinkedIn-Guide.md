@@ -1,7 +1,7 @@
-# Cover Letter
+# LinkedIn Guide
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **LinkedIn Guide**.
 
 ## Key Topics
 - Overview

@@ -1,7 +1,7 @@
-# Cover Letter
+# AI API Testing
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **AI API Testing**.
 
 ## Key Topics
 - Overview

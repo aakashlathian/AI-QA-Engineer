@@ -1,7 +1,7 @@
-# Cover Letter
+# Automation QA
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **Automation QA**.
 
 ## Key Topics
 - Overview

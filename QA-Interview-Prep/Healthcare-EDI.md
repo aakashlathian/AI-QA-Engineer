@@ -1,7 +1,7 @@
-# Cover Letter
+# Healthcare EDI
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **Healthcare EDI**.
 
 ## Key Topics
 - Overview

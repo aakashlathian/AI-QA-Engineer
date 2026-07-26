@@ -1,7 +1,7 @@
-# Cover Letter
+# GitHub Actions
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **GitHub Actions**.
 
 ## Key Topics
 - Overview

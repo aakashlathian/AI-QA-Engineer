@@ -1,7 +1,7 @@
-# Cover Letter
+# GitHub Portfolio
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **GitHub Portfolio**.
 
 ## Key Topics
 - Overview

@@ -1,7 +1,7 @@
-# Cover Letter
+# Cucumber
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **Cucumber**.
 
 ## Key Topics
 - Overview

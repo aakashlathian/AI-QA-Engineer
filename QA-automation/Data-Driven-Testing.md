@@ -1,7 +1,7 @@
-# Cover Letter
+# Data Driven Testing
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **Data Driven Testing**.
 
 ## Key Topics
 - Overview

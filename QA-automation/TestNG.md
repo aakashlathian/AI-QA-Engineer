@@ -1,7 +1,7 @@
-# Cover Letter
+# TestNG
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **TestNG**.
 
 ## Key Topics
 - Overview

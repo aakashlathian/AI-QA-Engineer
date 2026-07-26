@@ -1,7 +1,7 @@
-# Cover Letter
+# Keyword Driven Testing
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **Keyword Driven Testing**.
 
 ## Key Topics
 - Overview

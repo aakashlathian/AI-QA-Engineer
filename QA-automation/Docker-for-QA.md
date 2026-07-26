@@ -1,7 +1,7 @@
-# Cover Letter
+# Docker for QA
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **Docker for QA**.
 
 ## Key Topics
 - Overview

@@ -1,7 +1,7 @@
-# Cover Letter
+# Logging
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **Logging**.
 
 ## Key Topics
 - Overview

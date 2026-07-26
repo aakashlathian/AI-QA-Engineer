@@ -1,7 +1,7 @@
-# Cover Letter
+# Scenario Based
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **Scenario Based**.
 
 ## Key Topics
 - Overview

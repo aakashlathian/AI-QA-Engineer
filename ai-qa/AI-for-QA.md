@@ -1,7 +1,7 @@
-# Cover Letter
+# AI for QA
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **AI for QA**.
 
 ## Key Topics
 - Overview

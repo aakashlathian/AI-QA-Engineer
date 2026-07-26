@@ -1,7 +1,7 @@
-# Cover Letter
+# Gradle
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **Gradle**.
 
 ## Key Topics
 - Overview

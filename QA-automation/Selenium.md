@@ -1,7 +1,7 @@
-# Cover Letter
+# Selenium
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **Selenium**.
 
 ## Key Topics
 - Overview

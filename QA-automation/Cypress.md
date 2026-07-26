@@ -1,7 +1,7 @@
-# Cover Letter
+# Cypress
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **Cypress**.
 
 ## Key Topics
 - Overview

@@ -1,7 +1,7 @@
-# Cover Letter
+# Python for QA
 
 ## Purpose
-Reference material for **Cover Letter**.
+Reference material for **Python for QA**.
 
 ## Key Topics
 - Overview
