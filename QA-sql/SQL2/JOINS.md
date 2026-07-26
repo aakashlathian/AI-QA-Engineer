@@ -1,0 +1,2 @@
+# JOINS
+INNER, LEFT, RIGHT and FULL JOIN examples.
